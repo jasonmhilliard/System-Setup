@@ -3,7 +3,7 @@ Week1: Setting up Your System
 
 I. File list
 ------------
-VS Code Setup and Command Line Shell Guide Microsoft Word Document
+VS Code Setup and Command Line Guide-  Microsoft Word Document
 
 II. Concept
 ----------
