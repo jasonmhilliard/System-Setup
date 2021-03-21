@@ -8,7 +8,7 @@ VS Code Setup and Command Line Guide-  Microsoft Word Document
 II. Concept
 ----------
 This document lays out how to get started with VS code; a tool that provides developers a code editor to work with as they begin coding.
-Also covered are basic command line syntax to get you started on your journey. 
+Also covered are basic command line syntax and some common command line code to get you started on your journey. 
 
 III. Future Improvements
 ----------
