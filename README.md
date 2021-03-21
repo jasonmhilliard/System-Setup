@@ -1,4 +1,4 @@
-# Full-Stack-Development-with-MERN_Week1_Setting-up-Your-System
+# System Setup
 Week1: Setting up Your System
 
 I. File list
