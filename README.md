@@ -17,4 +17,4 @@ Expansion of the Command Line Guide and syntax for additional commands.
 IV.  License
 ----------
 The source material for this repository is from the MITxPRO Full Stack Development with MERN 32 week bootcamp.
-I have also provided additions, comments and material to enhance the code and documentation.
+I have also provided additions, comments and material to enhance the documentation.
