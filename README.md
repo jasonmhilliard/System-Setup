@@ -12,7 +12,7 @@ Also covered are basic command line syntax and some common command line code to 
 
 III. Future Improvements
 ----------
-Expansion of the Command Line Guide and syntax for additional commands.
+Expansion of the VS code section to include a demo of VS Code in action. Using VS Code and GIT command line as your one stop shop for coding.
 
 IV.  License
 ----------
